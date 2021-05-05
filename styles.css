@@ -1,0 +1,26 @@
+body {
+    background-color: #f9af69;
+}
+
+hr {
+    
+    border-style: dotted none none;
+    border-color: rgb(148, 137, 137);
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+h1 {
+    color: #ee2208;
+}
+
+h3 {
+    color: #f73504;
+}
+
+Hobbies.html h1 {
+    color: #66BFBF;
+}
+
